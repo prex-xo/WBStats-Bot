@@ -86,8 +86,8 @@ WBStats Bot is inspired by tools like *SquadBot* and *POMP's Mod* to help War Br
 ## Feedback & Support 💬  
 
 If you have suggestions, issues, or need support, feel free to:  
-- Open an issue on this repository  
-- Contact the developer via [Discord](#)  
+- Open an issue on this repository
+- Join our Discord Support server: https://discord.gg/BRwm9URDcx
 
 ---
 
