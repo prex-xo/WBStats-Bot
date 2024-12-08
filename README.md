@@ -37,7 +37,7 @@ WBStats Bot is a **Discord bot** designed to fetch and display detailed statisti
 Follow these steps to add and set up WBStats Bot in your Discord server:
 
 1. **Invite the Bot**  
-   Add WBStats Bot to your server using the [Bot Invite Link](#).  
+   Add WBStats Bot to your server using the [Bot Invite Link](https://bit.ly/wbstats).  
 
 2. **Permissions**  
    Grant the necessary permissions for the bot to function:  
